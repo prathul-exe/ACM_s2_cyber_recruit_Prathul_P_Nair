@@ -19,8 +19,7 @@ This is the place where death delights in helping the living."
 The task was to identify the exact location where the photograph was taken.
 
 ## Analysis / Approach
-At first I observed the image to find any visual flags.Then since I found nothing I started going deeper into the image to 
-find any encrpted hidden message by using linux bash commands,but I coudnt find any.Then I analysed the given text file and read the quote.I rember reading this quote in one of the films I watched.The quote is usually found in places like where the cadaver is being studied.Since the image is too artistic to be kept in a disection hall I quickly realised this would be in a museum.I linked all the 3 given clues with the quote and was sucessfully able to find the intersecting point between the clues.I also reverse searched the image for the confirmation of the answer and I finally came to the conclusion that the following image was taken from "SEDLEC OSSUARY" also known as church of bones which is present in the city KUTNA HORA in Czech Republic
+At first I observed the image to find any visual flags.Then since I found nothing I started going deeper into the image to find any encrpted hidden message by using linux bash commands,but I coudnt find any.Then I analysed the given text file and read the quote.I rember reading this quote in one of the films I watched.The quote is usually found in places like where the cadaver is being studied.Since the image is too artistic to be kept in a disection hall I quickly realised this would be in a museum.I linked all the 3 given clues with the quote and was sucessfully able to find the intersecting point between the clues.I also reverse searched the image for the confirmation of the answer and I finally came to the conclusion that the following image was taken from "SEDLEC OSSUARY" also known as church of bones which is present in the city KUTNA HORA in Czech Republic
 
 ## Tools 
 - Open-source research (OSINT)

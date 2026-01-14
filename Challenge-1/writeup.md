@@ -30,7 +30,6 @@ At first I observed the image to find any visual flags.Then since I found nothin
 - file evidence.jpeg
 - exiftool -a -u -g1 evidence.jpeg
 - binwalk evidence.jpeg
-- zsteg -a evidence.jpeg
 
 ## Flag
 flag{sedlec_ossuary_kutna_hora}

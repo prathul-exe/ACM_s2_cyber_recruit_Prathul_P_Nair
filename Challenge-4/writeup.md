@@ -5,7 +5,7 @@ An image from a pre-2005 archaeological dataset shows a stone structure outdoors
 
 hint:
 
-“Built to defeat heat, not enemies.
+“Built to defeat heat, not enemies."
 
 ## Analysis / Approach
 At first I observed the image to find any visual flags.Then since I found nothing I started going deeper into the image to find any encrpted hidden message by using linux bash commands,but I coudnt find any even after multiple attepts i used the command steginfo but failed to get the password.So I matched the given clues and got a name to confirm it I reverse searched the image and I got it as "Chand Baori" in Rajasthan.

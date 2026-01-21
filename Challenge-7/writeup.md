@@ -11,7 +11,7 @@ The login page was still active, and the flag was hidden behind successful authe
 ---
 
 ## Analysis / Approach
-At first, I reviewed the provided files to understand the challenge scenario. The login page itself did not reveal any immediate clues or flags, so the focus shifted to the network capture file.
+At first, I reviewed the provided files to understand the challenge scenario. The login page itself did not reveal any flags,but found a hint to confirm it I shifted my focus to the network capture file.
 
 I opened the `.pcap` file using Wireshark and applied filters to isolate HTTP traffic. After filtering the packets, I identified a `POST` request sent to the `/login` endpoint. By following the HTTP stream, I was able to reconstruct the complete request and inspect the transmitted data.
 

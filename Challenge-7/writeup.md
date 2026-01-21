@@ -6,8 +6,7 @@ The only evidence available was a network capture file (`.pcap`).
 The login page was still active, and the flag was hidden behind successful authentication.
 
 **Hint:**
-
-> “Not all packets are noise. Some talk too much.”
+“Not all packets are noise. Some talk too much.”
 
 ---
 
@@ -27,6 +26,9 @@ The login credentials were sent in plain text as part of the HTTP POST body. Thi
 ---
 
 ## Filters / Techniques Used
-http
-http.request.method == "POST"
-Follow → HTTP Stream
+- http
+- http.request.method == "POST"
+- Follow → HTTP Stream
+
+## Flag
+flag{analyzing_is_imp}
